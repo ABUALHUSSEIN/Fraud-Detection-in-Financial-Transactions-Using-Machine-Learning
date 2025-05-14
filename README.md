@@ -6,9 +6,6 @@ We implement and compare five classification models to evaluate their performanc
 
 ---
 
-
----
-
 ## 📊 Dataset Overview
 
 The **PaySim** dataset simulates mobile money transactions similar to real financial services. It contains over 6 million transactions and features like transaction type, amount, sender/receiver IDs, and fraud label.
@@ -66,6 +63,7 @@ After metric comparison, **XGBoost** performed best in balancing precision and r
 ---
 
 📚 References
+
 PaySim Dataset - Kaggle
 
 
