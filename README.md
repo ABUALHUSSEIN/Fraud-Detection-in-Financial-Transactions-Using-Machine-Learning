@@ -1,6 +1,7 @@
 # Fraud-Detection-in-Financial-Transactions-Using-Machine-Learning
 
-
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-ff69b4.svg)]([https://colab.research.google.com/your_notebook_link_here](https://colab.research.google.com/drive/1EuxqO-rxH7fKSH2RPZaTEi8l_v8c6olA#scrollTo=26GsVX6fxRju))
+---
 This repository contains a complete machine learning pipeline for detecting fraudulent financial transactions using the [PaySim](https://www.kaggle.com/datasets/ealaxi/paysim1) dataset. 
 We implement and compare five classification models to evaluate their performance in identifying fraud in an extremely imbalanced dataset.
 
