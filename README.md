@@ -6,6 +6,9 @@ We implement and compare five classification models to evaluate their performanc
 
 ---
 
+![Fraud-Detection](https://github.com/ABUALHUSSEIN/Fraud-Detection-in-Financial-Transactions-Using-Machine-Learning/blob/main/Fraud_Detection.jpg)
+
+---
 ## 📊 Dataset Overview
 
 The **PaySim** dataset simulates mobile money transactions similar to real financial services. It contains over 6 million transactions and features like transaction type, amount, sender/receiver IDs, and fraud label.
