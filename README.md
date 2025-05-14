@@ -2,6 +2,7 @@
 
 [![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-ffa500.svg)](https://colab.research.google.com/drive/1EuxqO-rxH7fKSH2RPZaTEi8l_v8c6olA#scrollTo=26GsVX6fxRju)
 [![Dataset on Kaggle](https://img.shields.io/badge/Dataset%20on-Kaggle-blue.svg)](https://www.kaggle.com/datasets/ealaxi/paysim1)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ---
 This repository contains a complete machine learning pipeline for detecting fraudulent financial transactions using the [PaySim](https://www.kaggle.com/datasets/ealaxi/paysim1) dataset. 
 We implement and compare five classification models to evaluate their performance in identifying fraud in an extremely imbalanced dataset.
@@ -66,6 +67,18 @@ We focused on metrics suitable for imbalanced classification:
 After metric comparison, **XGBoost** performed best in balancing precision and recall for fraud detection, followed closely by **Random Forest**.
 
 ---
+## Run the Notebook
+1. **Clone the repository**
+```bash
+git clone https://github.com/ABUALHUSSEIN/Fraud-Detection-in-Financial-Transactions-Using-Machine-Learning
+cd Fraud-Detection-in-Financial-Transactions-Using-Machine-Learning
+```
+2. **Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+---
+
 
 📚 References
 [PaySim Dataset - Kaggle](https://www.kaggle.com/datasets/ealaxi/paysim1)
